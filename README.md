@@ -88,7 +88,7 @@ const pritesh = {
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pritesh-verma-580650389/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=0f172a" alt="LinkedIn" /></a>
-  <a href="https://sites.google.com/view/priteshiitm/home"><img src="https://img.shields.io/badge/Portfolio-Visit-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc&labelColor=0f172a" alt="Portfolio" /></a>
+  
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
