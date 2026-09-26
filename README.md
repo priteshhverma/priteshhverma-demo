@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Pritesh%20Kumar&fontSize=52&fontColor=7dd3fc&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descSize=22&descColor=e2e8f0" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Pritesh%20Verma&fontSize=52&fontColor=7dd3fc&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descSize=22&descColor=e2e8f0" alt="header" />
 
 <a href="https://github.com/priteshhverma">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7dd3fc&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Writing+C%2C+C%2B%2B%2C+Python+%26+Java;Open+to+internships;Featured%3A+priteshhverma-demo" alt="Typing SVG" />
